@@ -57,4 +57,3 @@ Para aproveitar ao máximo este guia, recomenda-se:
 
 !!! warning "Alerta"
     Evite técnicas de SEO desatualizadas ou "Black Hat" (práticas proibidas pelos buscadores), pois podem resultar em penalizações ao site.
-
