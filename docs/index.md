@@ -1,4 +1,4 @@
-# Guia Introdutório ao SEO
+# Introdução ao SEO
 
 ## 1. Introdução
 A Otimização para Mecanismos de Busca (**SEO** - *Search Engine Optimization*) é um conjunto de técnicas que visa melhorar o posicionamento de um site nos resultados orgânicos de buscadores como Google, Bing e Yahoo. 
